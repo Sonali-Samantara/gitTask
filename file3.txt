@@ -1,2 +1,3 @@
 This is 3rd file.
+File is edited in vi editor in branch1
 
