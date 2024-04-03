@@ -1,2 +1,7 @@
 s is 4th file
+<<<<<<< HEAD
+thhis file is in branch2
+=======
+file is edied using vi editor in branch1
+>>>>>>> branch1
 
