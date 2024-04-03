@@ -1,6 +1,6 @@
 This is 3rd file.
 <<<<<<< HEAD
-this file is in branch2
+tthis file is in branch2
 =======
 File is edited in vi editor in branch1
 >>>>>>> branch1
