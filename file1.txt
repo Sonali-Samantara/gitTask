@@ -1,4 +1,8 @@
 This is first file
+<<<<<<< HEAD
 This file is edited and committed to branch2
 
+=======
+this file is edited in vi editor
+>>>>>>> branch1
 

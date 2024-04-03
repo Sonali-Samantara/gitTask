@@ -1,3 +1,7 @@
 This is 2nd file
+<<<<<<< HEAD
 this file is edited and saved to branch2
+=======
+this file is edited in vi editor alsoo
+>>>>>>> branch1
 
